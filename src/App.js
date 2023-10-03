@@ -99,7 +99,7 @@ import { BrowserRouter,Route,Routes
   return (
     <>
     <BrowserRouter>
-     <Navbar title="TextUtils" AboutText="About TextUtils" mode={mode} toggleMode={toggleMode} toggleMode2={toggleMode2} />
+     <Navbar title="Text-io" AboutText="About TextUtils" mode={mode} toggleMode={toggleMode} toggleMode2={toggleMode2} />
      {/* blueMode={blueMode} */}
      <Alert alert={alert} />
      <div className="container my-3">
